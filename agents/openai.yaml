@@ -1,0 +1,4 @@
+interface:
+  display_name: "Full-Stack Engineering OS"
+  short_description: "Coordinate complete, evidence-based software delivery"
+  default_prompt: "Use $full-stack-engineering-os to classify the risk, adapt to this repository, coordinate the work, enforce quality and local-only boundaries, and report readiness with evidence."
